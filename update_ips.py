@@ -12,6 +12,7 @@ domains = [
     "store.ubi.com"
     "cloudflare-dl.byoip.top"
     "bestcf.030101.xyz"
+    "time.is"
 ]
 
 # 阿里云和腾讯云的 DoH JSON API 接口
